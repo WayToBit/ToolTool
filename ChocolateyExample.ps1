@@ -5,4 +5,4 @@ choco upgrade all -y
 choco install 7zip -y
 choco install googlechrome -y
 choco install gom-player -y
-
+choco install handbrake -y      # Video encoder
